@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Abdul Wahab Mehmood 👋
 
-<!--
-**AbdulWahab72342/AbdulWahab72342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior SQA Engineer with 3+ years of experience testing web apps, APIs and AI-powered products.
 
-Here are some ideas to get you started:
+**What I do**
+- UI & API test automation: Playwright, Cypress, Selenium
+- API testing with Postman; performance testing with JMeter
+- SQL (PostgreSQL) data validation, CI with GitHub Actions
+- Testing AI features: accuracy, hallucinations, data leakage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- Coming soon: API and UI automation portfolio projects
+
+📫 [LinkedIn](https://www.linkedin.com/in/abdulwahab-sqa)
